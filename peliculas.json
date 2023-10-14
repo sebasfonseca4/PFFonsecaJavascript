@@ -1,0 +1,67 @@
+[
+    {
+      "id": 0,
+      "titulo": "Avengers",
+      "genero": "Acción",
+      "precioCompra": 15000,
+      "stock": 10,
+      "imagen": "img/avengers.jpg"
+    },
+    {
+      "id": 1,
+      "titulo": "Harry Potter",
+      "genero": "Aventura",
+      "precioCompra": 10000,
+      "stock": 5,
+      "imagen": "img/harry-potter.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Mi pobre angelito",
+      "genero": "Comedia",
+      "precioCompra": 10000,
+      "stock": 5,
+      "imagen": "img/home-alone.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Star Wars",
+      "genero": "Ciencia ficción",
+      "precioCompra": 12000,
+      "stock": 8,
+      "imagen": "img/star-wars.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Jurassic Park",
+      "genero": "Aventura",
+      "precioCompra": 11000,
+      "stock": 7,
+      "imagen": "img/jurassic-park.jpg"
+    }
+    ,
+    {
+      "id": 5,
+      "titulo": "Tiburon",
+      "genero": "Aventura",
+      "precioCompra": 12000,
+      "stock": 7,
+      "imagen": "img/jaws.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Club de la pelea",
+      "genero": "Acción",
+      "precioCompra": 11000,
+      "stock": 7,
+      "imagen": "img/figth-club.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Los increibles",
+      "genero": "Comedia",
+      "precioCompra": 11000,
+      "stock": 7,
+      "imagen": "img/increibles.jpg"
+    }
+  ]
